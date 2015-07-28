@@ -1,0 +1,11 @@
+{
+  "name": "reactpack",
+  "description": "Filterable, Packery-styled items grid that uses React",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "~0.13.3",
+    "packery": "~1.4.2",
+    "imagesloaded": "~3.1.8",
+    "jquery": "~2.1.4"
+  }
+}

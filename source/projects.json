@@ -1,0 +1,38 @@
+[
+  {
+    "student": "Amy",
+    "title": "Playing Arts 2",
+    "thumbnail": "http://lorempixel.com/640/480",
+    "department": "motion"
+  },
+  {
+    "student": "Becky",
+    "title": "Wild Circus of Mildly Insane Friends",
+    "thumbnail": "http://lorempixel.com/400/400",
+    "department": "interaction"
+  },
+  {
+    "student": "Chris",
+    "title": "26 Letters 26,000 Miles",
+    "thumbnail": "http://lorempixel.com/600/500",
+    "department": "advertising"
+  },
+  {
+    "student": "David",
+    "title": "Fugue",
+    "thumbnail": "http://lorempixel.com/300/600",
+    "department": "graphic"
+  },
+  {
+    "student": "Emily",
+    "title": "The Little Prince Museum",
+    "thumbnail": "http://lorempixel.com/500/500",
+    "department": "advertising"
+  },
+  {
+    "student": "Frank",
+    "title": "Havana, Cuba",
+    "thumbnail": "http://lorempixel.com/650/350",
+    "department": "interation"
+  }
+]

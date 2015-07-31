@@ -27,7 +27,7 @@ var ProjectPreviewsGrid = React.createClass({
           itemSelector: ".projectPreview",
           gutter: 0
         });
-      });
+      }.bind(this));
     }
 
   },
